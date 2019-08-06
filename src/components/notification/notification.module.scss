@@ -1,0 +1,17 @@
+$errorBackground:rgb(255, 43, 99);
+$successBackground:#00ff08;
+$textColor:#ffff;
+
+.notification{
+margin: 0 15px;
+padding: 10px 0;
+color: $textColor;
+}
+
+.notification.success{
+     background: $successBackground;
+}
+
+.notification.error{
+    background: $errorBackground;
+}

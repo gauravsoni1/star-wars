@@ -1,0 +1,49 @@
+$backgroundColor:yellow;
+$backgroundImage:"../../assets/images/loginBackground.jpg";
+
+.login{
+    background-image: url($backgroundImage);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    // background: $backgroundColor;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginContainer{
+    padding: 10px;
+}
+
+.loginHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    img{
+        max-height: 30px;
+    }
+
+    h5{
+        margin: 10px 30px;
+    }
+}
+
+.loginItems{
+    display: flex;
+    flex-direction: column;
+    .loginInput{
+        display: flex;
+        flex-direction: column;
+        padding: 0 15px;
+    }
+    button{
+        margin: 15px;
+    }
+    .progressIcon{
+        align-self: center;
+        margin: 10px 0px;
+    }
+}

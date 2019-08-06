@@ -1,0 +1,21 @@
+.searchPage{
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.body{
+    height: 100%;
+    .searchBox{
+        padding: 20px;   
+    }
+}
+
+.populationView{
+    display: flex;
+    justify-content: space-evenly
+}
