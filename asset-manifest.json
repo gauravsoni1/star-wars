@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/star-wars/static/css/main.2081c4b9.chunk.css",
+    "main.js": "/star-wars/static/js/main.7805921e.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.7805921e.chunk.js.map",
+    "runtime~main.js": "/star-wars/static/js/runtime~main.6cf174e3.js",
+    "runtime~main.js.map": "/star-wars/static/js/runtime~main.6cf174e3.js.map",
+    "static/js/2.999b11de.chunk.js": "/star-wars/static/js/2.999b11de.chunk.js",
+    "static/js/2.999b11de.chunk.js.map": "/star-wars/static/js/2.999b11de.chunk.js.map",
+    "index.html": "/star-wars/index.html",
+    "precache-manifest.990dfd85e7a6d119674cc9d552b88785.js": "/star-wars/precache-manifest.990dfd85e7a6d119674cc9d552b88785.js",
+    "service-worker.js": "/star-wars/service-worker.js",
+    "static/css/main.2081c4b9.chunk.css.map": "/star-wars/static/css/main.2081c4b9.chunk.css.map",
+    "static/media/lightsaber.png": "/star-wars/static/media/lightsaber.888edd43.png",
+    "static/media/login.module.scss": "/star-wars/static/media/loginBackground.a541675e.jpg"
+  }
+}
